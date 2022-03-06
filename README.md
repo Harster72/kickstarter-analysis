@@ -11,7 +11,7 @@ The possible challenge to using the historical data are:
 
 - The data set is relatively small (<5,000)
 - THe data set contains not only US data, but those campaigns held in other countries
-- The data set is historical, any macro-economic changes could have substantial impact to the actual result
+- The data set is historical, any macro-economic changes could have substantial impact to the actual results
 
 ### Results:
 
