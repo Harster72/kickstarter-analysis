@@ -15,7 +15,7 @@ The possible challenge to using the historical data are:
 
 ### Results:
 
-### Based on the data, a campaign amount less than $1,000 is the most successful campaign amount as it had a success rate of over 75% (3/4).  Alternatively, amounts between $35,000 and $44,999 has a success rate of 66.67% (2/3), which is more realistic in funding a theater.  
+### Based on the data, a campaign amount less than $1,000 is the most successful as it had a success rate of over 75% (3/4).  Alternatively, amounts between $35,000 and $44,999 has a success rate of 66.67% (2/3), which is more realistic in funding a theater.  
 ![Outcomes Based On Goals](Outcomes_Based_On_Goals.png)
 
 ### Based on the data, May is the ideal month to lauch theater funding campaign.
